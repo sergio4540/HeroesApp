@@ -1,4 +1,5 @@
 # Spa
+![image](https://user-images.githubusercontent.com/36976589/152387473-2348d182-43f7-4463-b7d9-0038b8d5d15f.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
